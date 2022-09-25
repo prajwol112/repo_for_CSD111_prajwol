@@ -1,3 +1,3 @@
-"prajwol" 
+"prajwol" Full name is prajwol
 hello my name is Prajwol. I am from Nepal.
 changing all file together and commiting at once
